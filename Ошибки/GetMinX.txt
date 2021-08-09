@@ -1,0 +1,12 @@
+private static string GetMinX(int a, int b, int c)
+{
+	if (a < 0) return "Impossible";
+	if (a == 0) {
+		if (b == 0) return c.ToString();
+		else return "Impossible";
+	}
+	else {
+		double root = -(double)b / (2 * a);
+		return root.ToString();
+	}
+}
