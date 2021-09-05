@@ -1,8 +1,0 @@
-C:\Users\admin\Desktop\С\Склонение рубля\bin\Debug\rubles.txt
-C:\Users\admin\Desktop\С\Склонение рубля\bin\Debug\Pluralize.exe.config
-C:\Users\admin\Desktop\С\Склонение рубля\bin\Debug\Pluralize.exe
-C:\Users\admin\Desktop\С\Склонение рубля\bin\Debug\Pluralize.pdb
-C:\Users\admin\Desktop\С\Склонение рубля\obj\Debug\Pluralize.csprojAssemblyReference.cache
-C:\Users\admin\Desktop\С\Склонение рубля\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
-C:\Users\admin\Desktop\С\Склонение рубля\obj\Debug\Pluralize.exe
-C:\Users\admin\Desktop\С\Склонение рубля\obj\Debug\Pluralize.pdb
